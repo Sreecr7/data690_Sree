@@ -1,3 +1,4 @@
+![Image of me](assignment_01/IMG-6959.jpg)
 ### Sree Purani Gunasekaran
 ## Contact Information
 * sreepug1@umbc.edu
