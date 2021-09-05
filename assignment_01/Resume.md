@@ -12,12 +12,6 @@
 * **Software Engineer Intern**,Mentorworks Boston from may 2021 - aug 2021
 * **Full Stack Developer**, Bank of America ,India from 2017 to 2020
 
-
-## Professional
-* Int'l Assoc. for Computer Info. Systems (IACIS)
-* Int'l Council of Systems Engineering (INCOSE)
-* Project Management Institute (PMI)
-
 ## Language skills
 * English
 * Tamil
