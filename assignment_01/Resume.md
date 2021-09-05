@@ -1,4 +1,5 @@
-![Image of me](assignment_01/IMG-6959.jpg)
+![IMG-6959](https://user-images.githubusercontent.com/89939492/132142332-eacddcf8-7032-4928-8526-6570eb086fc0.jpg)
+
 ### Sree Purani Gunasekaran
 ## Contact Information
 * sreepug1@umbc.edu
