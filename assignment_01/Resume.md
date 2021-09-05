@@ -26,6 +26,8 @@
 * Html5
 * css3
 * React
+## Awards
+* Received delivery excellence award for outstanding contributions to Bank of America for FY 2019   
 ## Hobbies
 * swimming
 * running 
