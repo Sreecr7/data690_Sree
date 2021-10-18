@@ -1,6 +1,6 @@
 # Topic
 ## Economy & Growth
-- Name Sree Purani Gunasekaran  MS IS
+- Name: Sree Purani Gunasekaran  MS IS
 # Indicators:
 - Goods exports (BoP, current US$)
 - Imports of goods and services (BoP, current US$)
