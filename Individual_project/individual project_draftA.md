@@ -18,5 +18,11 @@
 - A healthy economy is one in which both exports and imports are increasing. This usually indicates economic strength and a long-term trade surplus or deficit. If exports are increasing while imports are declining, it may indicate that foreign economies are doing better than the domestic economy. If, on the other hand, exports fall sharply while imports rise, it may indicate that the domestic economy is doing better than overseas markets.
 - Economic growth is defined as an increase in an economy's aggregate production. Increasing capital in the economy tends to increase labor productivity. Workers can produce more output per time period when they have access to newer, better, and more tools.
 ## No 1 Indicators Goods exports (BoP, current US$)
+![newplot](https://user-images.githubusercontent.com/89939492/137649297-718710e9-c009-4c1b-b5c0-5881818ffcf9.png)
+
 ## Imports of goods and services (BoP, current US$)
--When a country imports goods, it represents a capital outflow from that country. Local businesses are importers, and they make payments to foreign entities, or exporters. Imports at a high level indicate strong domestic demand and a growing economy.
+- When a country imports goods, it represents a capital outflow from that country. Local businesses are importers, and they make payments to foreign entities, or exporters. Imports at a high level indicate strong domestic demand and a growing economy.
+![Timeseries](https://user-images.githubusercontent.com/89939492/137651454-20d19917-609c-489c-aa12-b26e5fac0e4a.png)
+##  Trade in services (% of GDP)
+-
+![tradeofservices](https://user-images.githubusercontent.com/89939492/137651669-1d7a6418-5d60-4f9b-a132-43ad89357934.png)
