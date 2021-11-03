@@ -1,0 +1,100 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,11.6960783853,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+1,2011,11.8639677087,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+2,2012,12.3352782358,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+3,2013,12.2735572327,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+4,2014,11.6870933049,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+5,2015,11.3577987121,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+6,2016,11.2315430392,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+7,2017,11.1132627842,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+8,2018,12.1852488838,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+9,2019,12.0291324543,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+10,2020,12.1801314942,BG.GSR.NFSV.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2010,19.3489586126,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+12,2011,20.1757634481,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+13,2012,20.1328597162,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+14,2013,20.7707899032,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+15,2014,20.4311609301,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+16,2015,20.60856815,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+17,2016,21.786213099,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+18,2017,22.6551925526,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+19,2018,23.7782264626,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+20,2019,23.8463001071,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+21,2020,20.2223144513,BG.GSR.NFSV.GD.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+22,2010,6.7935660216,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+23,2011,7.0957197689000004,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+24,2012,7.1274462938,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+25,2013,7.0620116163,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+26,2014,7.118276646,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+27,2015,6.942127065,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+28,2016,6.8947547696,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+29,2017,7.0369056177000004,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+30,2018,6.9110741847,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+31,2019,6.8314172072,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+32,2020,5.4945884241,BG.GSR.NFSV.GD.ZS,USA,United States,North America,High income,Not classified
+33,2010,230967060094.886,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+34,2011,307847488405.908,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+35,2012,298320584199.861,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+36,2013,319109794565.316,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+37,2014,328386908293.941,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+38,2015,272352729600.0,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+39,2016,268614705000.0,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+40,2017,304106898883.26,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+41,2018,332086853293.32,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+42,2019,331271580797.1,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+43,2020,281700527415.24,BX.GSR.MRCH.CD,IND,India,South Asia,Lower middle income,IBRD
+44,2010,411731252759.488,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+45,2011,483527463283.051,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+46,2012,471341661835.012,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+47,2013,469018277606.795,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+48,2014,475705767845.623,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+49,2015,430354599996.212,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+50,2016,402117874295.688,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+51,2017,433158989178.48,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+52,2018,468605098896.014,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+53,2019,476271233415.232,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+54,2020,399208497334.544,BX.GSR.MRCH.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+55,2010,1290279000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+56,2011,1498887000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+57,2012,1562631000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+58,2013,1593708000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+59,2014,1635563000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+60,2015,1511383000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+61,2016,1457394000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+62,2017,1557004000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+63,2018,1676950000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+64,2019,1652437000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+65,2020,1435125000000.0,BX.GSR.MRCH.CD,USA,United States,North America,High income,Not classified
+66,2010,439059034248.05,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+67,2011,553062186679.575,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+68,2012,579908579784.452,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+69,2013,560408478123.575,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+70,2014,553552854081.367,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+71,2015,491880074570.799,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+72,2016,472012694192.71,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+73,2017,561612525785.533,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+74,2018,642960117087.838,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+75,2019,619484791790.59,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+76,2020,493176106555.368,BM.GSR.GNFS.CD,IND,India,South Asia,Lower middle income,IBRD
+77,2010,749753823827.95,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+78,2011,842448767069.29,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+79,2012,844351648551.639,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+80,2013,871042134619.118,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+81,2014,912101796085.559,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+82,2015,842897282479.023,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+83,2016,809452828263.38,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+84,2017,841179246500.879,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+85,2018,916403403009.179,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+86,2019,914958476076.026,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+87,2020,752772300169.865,BM.GSR.GNFS.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+88,2010,2375402000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+89,2011,2698073000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+90,2012,2773360000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+91,2013,2760063000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+92,2014,2876410000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+93,2015,2771010000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+94,2016,2719094000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+95,2017,2901177000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+96,2018,3119321000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+97,2019,3105132000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
+98,2020,2808955000000.0,BM.GSR.GNFS.CD,USA,United States,North America,High income,Not classified
