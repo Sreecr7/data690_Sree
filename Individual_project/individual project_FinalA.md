@@ -20,7 +20,7 @@
 ## Goods exports (BoP, current US$)
 - When a country exports goods, it sells them to a foreign market, which includes consumers, businesses, and governments in other countries. These exports bring money into the country, increasing the GDP of the exporting country.
 ![newplot](https://github.com/Sreecr7/data690_Sree/blob/main/Individual_project/goodsexports.png)
-- The above piechart is about good exports for United States , India , United Kindom for the year 2018 
+- The above piechart is about good exports for United States , India , United Kindom for the year 2010 
 - The United States has the highest percentage of good exports in 2010, at 68 percent, while India has the lowest, at 11.9 percent.as a result, United States The gpd profit from export is reasonable.
 - India, because it is densely populated, can make much better profits from exports; however, it has a low GDP value.
 
